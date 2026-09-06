@@ -1,4 +1,4 @@
-# Hi, I'm Pratham Patil
+# Hi, I'm Pratham Patil 👋
 
 Computer Science undergraduate passionate about building scalable software, full-stack web applications, and AI-powered solutions.
 
@@ -12,10 +12,10 @@ Currently focused on:
 
 ## About Me
 
-- Computer Science student at PES University
-- Interested in backend engineering, AI, and system design
-- Enjoy solving algorithmic problems and building practical applications
-- Currently preparing for Software Development Engineer roles
+- 🎓 Computer Science student at PES University
+- 🔭 Interested in backend engineering, AI, and system design
+- 🧩 Enjoy solving algorithmic problems and building practical applications
+- 🎯 Currently preparing for Software Development Engineer roles
 
 ---
 
@@ -23,7 +23,7 @@ Currently focused on:
 
 **Languages**
 
-C • C++ • Java • Python • JavaScript • SQL
+C • C++ • Java • Python • JavaScript • TypeScript • SQL
 
 **Frontend**
 
@@ -45,22 +45,43 @@ Git • GitHub • Postman • Linux • Docker (Learning)
 
 ## Featured Projects
 
-### Green Saviours
-Environmental NGO platform built using the MERN stack.
+### 🅿️ [ParkMallEase](https://github.com/patilll83/ParkMallEase)
+Mall parking management platform with RBAC, mall approval workflows, atomic slot allocation, QR-based entry/exit, and duration-based billing.
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech:** Full-stack web app
 
 ---
 
-### AI Navigation Assistant
-An AI-powered navigation system for visually impaired users using image understanding and voice guidance.
+### 💬 [CaptionSense](https://github.com/patilll83/CaptionSense)
+Chrome extension that lets you hover over subtitle words on YouTube to see quick, in-context meanings.
+
+**Tech:** JavaScript, Chrome Extension APIs
+
+---
+
+### 💸 [MoneyLens](https://github.com/patilll83/MoneyLens)
+Browser-based dashboard that turns a PhonePe transaction statement into interactive spending insights — category breakdowns, merchant rankings, and recurring-payment detection, all processed client-side.
+
+**Tech:** React, TypeScript, Vite
+
+---
+
+### 🌿 [Green Saviours](https://github.com/patilll83/Green_Saviours)
+Full-stack platform for a tree-planting NGO, managing nurseries, plantation areas, volunteers, and donors with role-based dashboards.
+
+**Tech:** Node.js, Express, MongoDB, Passport.js
+
+---
+
+### 🧭 [AI Navigation Assistant](https://github.com/patilll83/Smart-Navigation-assistant-for-Visually-Imparied)
+AI-powered navigation system for visually impaired users using image understanding and voice guidance.
 
 **Tech:** Python, Raspberry Pi, Gemini API, OpenCV
 
 ---
 
-### Wildfire Prediction System
-Machine learning project for wildfire prediction and resource allocation using satellite and weather data.
+### 🔥 [Wildfire & PM2.5 Forecasting](https://github.com/patilll83/Physics-Informed-XGB-for-Smoke-driven-PM2.5-forecasting)
+Geospatial ML pipeline predicting fine particulate matter (PM2.5) by combining VIIRS active-fire data, ERA5 meteorology, and CAMS datasets.
 
 **Tech:** Python, XGBoost, GIS
 
@@ -84,6 +105,10 @@ Machine learning project for wildfire prediction and resource allocation using s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilll83&show_icons=true&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilll83&show_icons=true&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilll83&layout=compact&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilll83&hide_border=true" width="60%">
 </p>
